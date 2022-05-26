@@ -13,5 +13,5 @@ __all__ = [
     "StanceTopic",
     "Task",
     "test_labels",
-    "test_pred",
+    "test_preds",
 ]

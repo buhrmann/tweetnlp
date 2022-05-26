@@ -11,7 +11,6 @@ available in Python>=3.9.
 from __future__ import annotations
 
 import sys
-from functools import partial
 from pathlib import Path
 from typing import Iterable
 
